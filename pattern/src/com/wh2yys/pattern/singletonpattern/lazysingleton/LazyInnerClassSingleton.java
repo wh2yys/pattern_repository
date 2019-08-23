@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.lazysingleton;
+package com.wh2yys.pattern.singletonpattern.lazysingleton;
 
 /**
  * @ClassName LazyInnerClassSingleton

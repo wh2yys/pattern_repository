@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.hungrysingleton;
+package com.wh2yys.pattern.singletonpattern.hungrysingleton;
 
 /**
  * @ClassName HungryStaticSingleton

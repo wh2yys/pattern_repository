@@ -1,7 +1,6 @@
-package com.wh2yys.pattern.singleton.lazysingleton.test;
+package com.wh2yys.pattern.singletonpattern.lazysingleton.test;
 
-import com.wh2yys.pattern.singleton.lazysingleton.ExectorThread;
-import com.wh2yys.pattern.singleton.lazysingleton.LazySimpleSingleton;
+import com.wh2yys.pattern.singletonpattern.lazysingleton.ExectorThread;
 
 /**
  * @ClassName TestLazySimpleSingleton

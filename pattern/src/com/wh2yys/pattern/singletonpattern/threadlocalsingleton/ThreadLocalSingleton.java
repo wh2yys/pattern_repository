@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.threadlocalsingleton;
+package com.wh2yys.pattern.singletonpattern.threadlocalsingleton;
 
 /**
  * @ClassName ThreadLocalSingleton
@@ -17,7 +17,8 @@ public class ThreadLocalSingleton {
 
     private ThreadLocalSingleton() {
     }
-    public static ThreadLocalSingleton getInstance(){
+
+    public static ThreadLocalSingleton getInstance() {
         return threadlocalInstance.get();
     }
 }

@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.threadlocalsingleton;
+package com.wh2yys.pattern.singletonpattern.threadlocalsingleton;
 
 /**
  * @ClassName ThreadLocalSingletonTest

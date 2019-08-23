@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.lazysingleton;
+package com.wh2yys.pattern.singletonpattern.lazysingleton;
 
 /**
  * @ClassName ExectorThread
@@ -10,7 +10,7 @@ public class ExectorThread1 implements Runnable {
     @Override
     public void run() {
         LazyDoubleCheckSingleton singleton = LazyDoubleCheckSingleton.getNewInstances();
-        System.out.println(Thread.currentThread().getName()+":  singleton = " + singleton);
+        System.out.println(Thread.currentThread().getName()+":  singletonpattern = " + singleton);
     }
 
 }

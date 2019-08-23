@@ -1,6 +1,6 @@
-package com.wh2yys.pattern.singleton.hungrysingleton.test;
+package com.wh2yys.pattern.singletonpattern.hungrysingleton.test;
 
-import com.wh2yys.pattern.singleton.hungrysingleton.HungryStaticSingleton;
+import com.wh2yys.pattern.singletonpattern.hungrysingleton.HungryStaticSingleton;
 
 /**
  * @ClassName TestHungrySingleton

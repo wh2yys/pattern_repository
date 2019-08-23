@@ -1,4 +1,4 @@
-package com.wh2yys.pattern.singleton.hungrysingleton;
+package com.wh2yys.pattern.singletonpattern.hungrysingleton;
 
 /**
  * @ClassName HungrySingleton
@@ -14,7 +14,7 @@ public class HungrySingleton {
      * @Description: //TODO
      * @Date:  14:52 2019/8/16
      * @Param:  No such property: code for class: Script1
-     * @Return:  com.wh2yys.pattern.singleton.hungrysingleton.HungrySingleton
+     * @Return:  com.wh2yys.pattern.singletonpattern.hungrysingleton.HungrySingleton
      */
     public static HungrySingleton getNewInsatace(){
         return singleton;

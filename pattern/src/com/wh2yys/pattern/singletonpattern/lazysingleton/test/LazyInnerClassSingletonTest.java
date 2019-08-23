@@ -1,6 +1,6 @@
-package com.wh2yys.pattern.singleton.lazysingleton.test;
+package com.wh2yys.pattern.singletonpattern.lazysingleton.test;
 
-import com.wh2yys.pattern.singleton.lazysingleton.LazyInnerClassSingleton;
+import com.wh2yys.pattern.singletonpattern.lazysingleton.LazyInnerClassSingleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
